@@ -1,0 +1,14 @@
+.mx-auto {
+    width: 1100px;
+}
+
+.mx-auto h1{
+    text-align: center;
+}
+.card {
+    margin-top: 15px;
+}
+.btn-primary {
+    align-content: center;
+    margin-top: 50px;
+}
